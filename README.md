@@ -37,16 +37,6 @@ Ce document résume les problèmes rencontrés lors de la tentative d'installati
 * Le site Web officiel de Python est la source fiable pour télécharger des versions spécifiques de Python.
 
 
-(myenv) C:\Users\H0PPR202\anaconda3\envs\myenv>conda list pycaret
-packages in environment at C:\Users\H0PPR202\anaconda3\envs\myenv:
-
-Name                    Version                   Build  Channel
-pycaret                   2.0                      pypi_0    pypi
-
-(myenv) C:\Users\H0PPR202\anaconda3\envs\myenv>
-
-
-
 
 
 
