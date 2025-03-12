@@ -35,4 +35,19 @@ Ce document résume les problèmes rencontrés lors de la tentative d'installati
 * Maintenir Python et `pip` à jour. 
 * Lorsque des conflits de dépendances surviennent, il est préférable de créer des environnements virtuels isolés, plutôt que de résoudre ces conflits dans l'environnement de base. 
 * Le site Web officiel de Python est la source fiable pour télécharger des versions spécifiques de Python.
+
+
+(myenv) C:\Users\H0PPR202\anaconda3\envs\myenv>conda list pycaret
+# packages in environment at C:\Users\H0PPR202\anaconda3\envs\myenv:
+#
+# Name                    Version                   Build  Channel
+pycaret                   2.0                      pypi_0    pypi
+
+(myenv) C:\Users\H0PPR202\anaconda3\envs\myenv>
+
+
+
+
+
+
 travail final en PowerBI
