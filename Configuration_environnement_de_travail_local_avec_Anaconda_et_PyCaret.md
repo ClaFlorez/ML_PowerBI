@@ -67,7 +67,7 @@ Dans **Power BI**, allez dans :
 ```bash
 # 1️⃣ Installer Anaconda (si ce n’est pas déjà fait)
 # 2️⃣ Créer un environnement Conda
-conda create --name myenv python=3.7
+conda create --name myenv python=3.9
 
 # 3️⃣ Activer l’environnement
 conda activate myenv
