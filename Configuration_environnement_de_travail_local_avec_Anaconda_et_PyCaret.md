@@ -17,7 +17,7 @@ Une fois l'installation terminée, ouvrez **Anaconda Prompt** (et non CMD classi
 Dans **Anaconda Prompt**, exécutez la commande suivante pour créer un environnement appelé `myenv` avec Python 3.7 :
 
 ```bash
-conda create --name myenv python=3.7
+conda create --name myenv python=3.9
 ```
 ✅ Une fois l'installation terminée, Conda vous demandera de confirmer. Tapez `y` puis **Entrée**.
 
