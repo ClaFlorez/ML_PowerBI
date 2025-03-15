@@ -32,7 +32,7 @@ conda activate myenv
 ```
 ⚠️ Si cette commande ne fonctionne pas, essayez :
 ```bash
-source activate myenv  # Pour certains systèmes
+source activate myenv  # Pour Linux
 ```
 
 ---
