@@ -76,5 +76,5 @@ conda activate myenv
 pip install pycaret==2.0
 ```
 
-💡 **Astuce** : Si vous rencontrez des erreurs, copiez-les ici pour obtenir de l'aide ! 🚀
+💡 **Astuce** : Ne vous decourage pas et cherche les bonnes versions  🚀
 
